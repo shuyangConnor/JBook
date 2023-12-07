@@ -1,6 +1,6 @@
 {
   "name": "jsnote-connor",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnote-connor/local-client": "^1.0.0"
+    "@jsnote-connor/local-client": "^2.0.0"
   },
   "devDependencies": {
-    "@jsnote-connor/local-api": "^1.0.0",
+    "@jsnote-connor/local-api": "^2.0.0",
     "@types/node": "^20.10.3",
     "commander": "^11.1.0",
     "esbuild": "0.8.26",
